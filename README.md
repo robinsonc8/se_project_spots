@@ -21,7 +21,7 @@ The purpose of this website is to create an interactive social networking web ap
 ## Deployment
 This webpage is deployed to GitHub pages
 
-Deployment link: 
+[Deployment link]( https://robinsonc8.github.io/se_project_spots/)
 
 
 
