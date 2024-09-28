@@ -15,11 +15,11 @@
 }
 
 @media screen and (max-width: 627px) {
-  .cards{
+  .cards {
     padding-bottom: 20px;
   }
-  
-    .cards__list {
+
+  .cards__list {
     grid-template-columns: repeat(auto-fit, 288px);
     gap: 12px;
   }
