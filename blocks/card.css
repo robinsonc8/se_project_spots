@@ -39,6 +39,7 @@
   background-color: transparent;
   opacity: 40%;
   transition: opacity 0.3s ease;
+  background-repeat: no-repeat;
 }
 
 .card__like-button:hover {
@@ -49,10 +50,13 @@
 .card__like-button_liked {
   background-image: url("../images/State=Liked\ \(1\).svg");
   opacity: 1;
+  background-color: transparent;
 }
 
 .card__like-button_liked:hover {
   background-image: url("../images/State=State4.svg");
+  background-color: transparent;
+  opacity: 40%;
 }
 
 .card__delete-button {
