@@ -48,14 +48,13 @@
 }
 
 .card__like-button_liked {
-  background-image: url("../images/State=Liked\ \(1\).svg");
+  background-image: url("../images/like-button.svg");
   opacity: 1;
   background-color: transparent;
 }
 
 .card__like-button_liked:hover {
   background-image: url("../images/State=State4.svg");
-  background-color: transparent;
   opacity: 40%;
 }
 
@@ -69,13 +68,11 @@
   position: absolute;
   background-size: contain;
   background-color: transparent;
-
 }
 
 .card__delete-button:hover {
   background: url("../images/State=Hover\ \(1\).svg");
   cursor: pointer;
-  
 }
 
 @media screen and (max-width: 627px) {
